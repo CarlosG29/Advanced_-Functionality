@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "915B846C-9AC7-4AD6-BD8E-E1B79E4AFEE9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "470788D2-FB30-47D5-80E4-2B6F105A896C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIAppUAMExample/Views/AddProductView/AddProductViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AddProductViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "470788D2-FB30-47D5-80E4-2B6F105A896C - a79eac9fa35c7f72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIAppUAMExample.AddProductViewController.titleTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "APIAppUAMExample.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloseduardogurdian/Desktop/APIAppUAMExample/APIAppUAMExample/Views/AddProductView/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "470788D2-FB30-47D5-80E4-2B6F105A896C - 52118c34ee7dc74e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIAppUAMExample.AddProductViewController.titleTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "APIAppUAMExample.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloseduardogurdian/Desktop/APIAppUAMExample/APIAppUAMExample/Views/AddProductView/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "470788D2-FB30-47D5-80E4-2B6F105A896C - 6f961fcddd55a90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIAppUAMExample.AddProductViewController.titleTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "APIAppUAMExample.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloseduardogurdian/Desktop/APIAppUAMExample/APIAppUAMExample/Views/AddProductView/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "470788D2-FB30-47D5-80E4-2B6F105A896C - a407b38d2732ec37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIAppUAMExample.AddProductViewController.titleTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "APIAppUAMExample.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "470788D2-FB30-47D5-80E4-2B6F105A896C - 7c01ad942bad55a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIAppUAMExample.AddProductViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; APIAppUAMExample.AddProductViewController"
+                  moduleName = "APIAppUAMExample.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloseduardogurdian/Desktop/APIAppUAMExample/APIAppUAMExample/Views/AddProductView/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "470788D2-FB30-47D5-80E4-2B6F105A896C - 34ad58acbc25fcb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIAppUAMExample.AddProductViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;APIAppUAMExample.AddProductViewController&gt;"
+                  moduleName = "APIAppUAMExample.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloseduardogurdian/Desktop/APIAppUAMExample/APIAppUAMExample/Views/AddProductView/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
